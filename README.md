@@ -14,4 +14,4 @@ The counties were ranked by profit per capita, marketplace saturation, and profi
 
 The model and approach has shortcomings. Trend information is valuable for business owners. When a business owner is sitting up a new store, they need to know about market trends. The data uses 15 months of transactions. This is insufficient to show market trends for the next 5, 10, or 30 years. This model assumes that each county’s performance will remain constant in the upcoming years. This is dangerous because what if a county had a above average year in 2015? Then the business owner would believe this county is better than it really is. Also, the model does not take into consideration businesses practices. Does the business value high-throughput? Or does it value a higher profit per transaction ratio? The model also weighs features equally. In actuality, the business would want to place more importance on some features than others. Other dimensions also exist, such as tax rates and other fees that vary from county to county.
 
-*Please see the python code and presentation slide for more information*
+*Please see the python code and presentation slides for more information*
