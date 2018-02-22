@@ -1,5 +1,6 @@
 ### Executive summary
-##### A liquor store owner is looking to expand to a new location in Iowa. They have hired us to narrow their search from the entire state to just three counties.
+##### A liquor store owner is looking to expand to a new location in Iowa
+##### They have hired us to narrow their search from the entire state to just three counties
 
 ![Liquor Bottles](http://www.thecarycompany.com/media/img/page/glass-liquor-bottles.png "Liquor Bottles")
 
