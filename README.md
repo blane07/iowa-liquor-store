@@ -1,5 +1,6 @@
-### Executive summary
-##### A liquor store owner is looking to expand to a new location in Iowa
+# Liquor in Iowa [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
+#### CHALLENGE: A liquor store owner is looking to expand to a new location in Iowa
 ![Liquor Bottles](http://www.thecarycompany.com/media/img/page/glass-liquor-bottles.png "Liquor Bottles")
 ##### They have hired us to narrow their search from the entire state to just three counties
 We used a dataset provided by Iowa of all Class E license liquor store transactions from January 2015 to March 2016. From this data we created a model and concluded that Johnson, Woodbury, and Scott are the best counties to establish a new liquor store in.
